@@ -1,3 +1,5 @@
+
+
 <a name="readme-top"></a>
 
 <div align="center">
@@ -9,16 +11,18 @@
   [![MIT License][license-shield]][license-url]
 
   <br />
-  <a href="https://github.com/ofelipescherer/boilerplate">
-    <img src="https://user-images.githubusercontent.com/62115215/218337222-54c45669-88a9-47a4-a238-2806ac25a739.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/fescherer/<repo-name>">
+    <img src="<repo-image-url>" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">BoilerPlate NextJS StyledComponents</h3>
+<h3 align="center"><'repo-title'></h3>
 
 <p align="center">
-This project is a boilerplate for my NextJS projects
+
+Short description for <repo-project>
+
 <br />
-<a href="https://github.com/ofelipescherer/boilerplate"><strong>Explore the docs »</strong></a>
+<a href="https://github.com/fescherer/utils"><strong>Explore the docs »</strong></a>
 <br />
 <br />
 <a href="#about">About</a>
@@ -49,7 +53,7 @@ This project is a boilerplate for my NextJS projects
 
 ## <Emoji project> About <Emoji project>
 
-This project is a boilerplate for NextJS projects, here are included Styled Components, theme config, phosphor icons and Typescript. Feel free to use and modify as you want.
+Here goes a a long description for <repo-name>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,12 +65,15 @@ This project is a boilerplate for NextJS projects, here are included Styled Comp
 
 <div align="center">
 
+<'Here goes the badges of project tecnlogies'>
+
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
 [![HTML 5][HTML 5]][html-url]
 [![CSS 3][CSS 3]][css-url]
 [![Typescript][Typescript]][typescript-url]
 [![Styled Components][Styled Components]][styled-components-url]
+[![Tailwind CSS][TailwindCSS]][tailwindcss-url]
 
 </div>
 
@@ -89,11 +96,9 @@ To get this project up and running locally on your pc, follow the steps:
 
 ### Installation
 
-<!--⚠️ NOTE: If the project use something that have env variables, in this step, need to link how to get that env, like a firebase tutorial or something like that-->
-
 1. Clone the repo
    ```sh
-   git clone https://github.com/ofelipescherer/boilerplate.git
+   git clone https://github.com/fescherer/utils.git
    ```
 2. Install NPM packages
    ```sh
@@ -108,9 +113,7 @@ To get this project up and running locally on your pc, follow the steps:
 
 ## 🙋 How to use 🙋
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-<!-- ⚠️ NOTE: If _For more examples, please refer to the [Documentation](https://example.com)_-->
+Here's goes a long description to how to use the <1repo project>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,7 +123,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 ## 🐞 Report Bug / Request Feature 🐞
 
-If you found a bug or want to request a feature, you can open an [issue](https://github.com/ofelipescherer/boilerplate/issues)
+If you found a bug or want to request a feature, you can open an [issue](https://github.com/fescherer/utils/blob/main/ISSUE.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +133,7 @@ If you found a bug or want to request a feature, you can open an [issue](https:/
 
 ## 👋 Be part of this project 👋
 
-Contributions are extremely welcome. You can see how to make one by following the file [Contributing](CONTRIBUTING.md)
+Contributions are extremely welcome. You can see how to make one by following the file [Contributing](https://github.com/fescherer/utils/blob/main/CONTRIBUTING.md)
 
 And don't forget to leave a star on the project if you liked it 🤩
 
@@ -152,16 +155,7 @@ Distributed under the MIT License. See [License](LICENSE.md) for more informatio
 
 ## 💬 Contact me 💬
 
-My name is Felipe Scherer and you can find me at:
-
-<div align="center">
-
-[![Youtube][youtube-shield]][youtube-url]
-[![Linkedin][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
-
-</div>
-
+My name is Felipe Scherer. You can find my socials at [my Github profile](https://github.com/fescherer) 😸
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,7 +168,7 @@ My name is Felipe Scherer and you can find me at:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ofelipescherer">
+      <a href="https://github.com/fescherer">
         <img src="https://avatars.githubusercontent.com/u/62115215" width="100px;" alt="Felipe Scherer Picture"/><br>
         <sub>
           <b>Felipe Scherer</b>
@@ -188,29 +182,20 @@ My name is Felipe Scherer and you can find me at:
 
 
 
-<!-- Badges and Badges Link -->
-[contributors-shield]: https://img.shields.io/github/contributors/ofelipescherer/boilerplate.svg?style=for-the-badge
-[contributors-url]: https://github.com/ofelipescherer/boilerplate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ofelipescherer/boilerplate.svg?style=for-the-badge
-[forks-url]: https://github.com/ofelipescherer/boilerplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/ofelipescherer/boilerplate.svg?style=for-the-badge
-[stars-url]: https://github.com/ofelipescherer/boilerplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ofelipescherer/boilerplate.svg?style=for-the-badge
-[issues-url]: https://github.com/ofelipescherer/boilerplate/issues
-[license-shield]: https://img.shields.io/github/license/ofelipescherer/boilerplate.svg?style=for-the-badge
-[license-url]: https://github.com/ofelipescherer/boilerplate/blob/master/LICENSE.md
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- https://github.com/Ileriayo/markdown-badges -->
+[contributors-shield]: https://img.shields.io/github/contributors/fescherer/utils.svg?style=for-the-badge
+[contributors-url]: https://github.com/fescherer/utils/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fescherer/utils.svg?style=for-the-badge
+[forks-url]: https://github.com/fescherer/utils/network/members
+[stars-shield]: https://img.shields.io/github/stars/fescherer/utils.svg?style=for-the-badge
+[stars-url]: https://github.com/fescherer/utils/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fescherer/utils.svg?style=for-the-badge
+[issues-url]: https://github.com/fescherer/utils/issues
+[license-shield]: https://img.shields.io/github/license/fescherer/utils.svg?style=for-the-badge
+[license-url]: https://github.com/fescherer/utils/blob/master/LICENSE.md
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ofelipescherer
-[youtube-shield]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-[youtube-url]: https://www.youtube.com/channel/UCySqmz_Rohnl53VLoNQsnKg
-[github-shield]: https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white
-[github-url]: https://github.com/ofelipescherer
-
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
 [HTML 5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS 3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -219,17 +204,9 @@ My name is Felipe Scherer and you can find me at:
 [typescript-url]: https://www.typescriptlang.org
 [Styled Components]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
 [styled-components-url]: https://styled-components.com
-[Material UI]: https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
-[material-ui-url]: https://m3.material.io
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[Python-url]: https://www.python.org
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[TailwindCSS]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[tailwindcss-url]: https://tailwindcss.com
