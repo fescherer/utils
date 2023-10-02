@@ -5,8 +5,8 @@
 [![MIT License][license-shield]][license-url]
 
   <br />
-  <a href="https://github.com/ofelipescherer/utils">
-    <img src="https://user-images.githubusercontent.com/62115215/218600027-5eda2e8c-b177-437b-86e4-2003c5ef6eef.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/fescherer/utils">
+    <img src="https://github.com/fescherer/utils/assets/62115215/79d119bd-cc86-4b56-a129-91c80ce15b2d" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Util</h3>
@@ -16,7 +16,7 @@
 Utils
 
 <br />
-<a href="https://github.com/ofelipescherer/utils"><strong>Explore the docs »</strong></a>
+<a href="https://github.com/fescherer/utils"><strong>Explore the docs »</strong></a>
 <br />
 <br />
 <a href="#about">About</a>
@@ -61,13 +61,7 @@ Don't forget to leave a star if you like the project ✨
 
 ## 💬 Contact me 💬
 
-My name is Felipe Scherer and you can find me at:
-
-<div align="center">
-
-[![Youtube][youtube-shield]][youtube-url]
-[![Linkedin][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
+My name is Felipe Scherer. You can find my socials at [my Github profile](https://github.com/fescherer) 😸
 
 </div>
 
@@ -96,22 +90,22 @@ My name is Felipe Scherer and you can find me at:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/ofelipescherer/utils.svg?style=for-the-badge
-[contributors-url]: https://github.com/ofelipescherer/utils/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ofelipescherer/utils.svg?style=for-the-badge
-[forks-url]: https://github.com/ofelipescherer/utils/network/members
-[stars-shield]: https://img.shields.io/github/stars/ofelipescherer/utils.svg?style=for-the-badge
-[stars-url]: https://github.com/ofelipescherer/utils/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ofelipescherer/utils.svg?style=for-the-badge
-[issues-url]: https://github.com/ofelipescherer/utils/issues
-[license-shield]: https://img.shields.io/github/license/ofelipescherer/utils.svg?style=for-the-badge
-[license-url]: https://github.com/ofelipescherer/utils/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/fescherer/utils.svg?style=for-the-badge
+[contributors-url]: https://github.com/fescherer/utils/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fescherer/utils.svg?style=for-the-badge
+[forks-url]: https://github.com/fescherer/utils/network/members
+[stars-shield]: https://img.shields.io/github/stars/fescherer/utils.svg?style=for-the-badge
+[stars-url]: https://github.com/fescherer/utils/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fescherer/utils.svg?style=for-the-badge
+[issues-url]: https://github.com/fescherer/utils/issues
+[license-shield]: https://img.shields.io/github/license/fescherer/utils.svg?style=for-the-badge
+[license-url]: https://github.com/fescherer/utils/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0E76A8
-[linkedin-url]: https://www.linkedin.com/in/ofelipescherer
+[linkedin-url]: https://www.linkedin.com/in/fescherer
 [youtube-shield]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 [youtube-url]: https://www.youtube.com/channel/UCySqmz_Rohnl53VLoNQsnKg
 [github-shield]: https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white
-[github-url]: https://github.com/ofelipescherer
+[github-url]: https://github.com/fescherer
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
 [html 5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
