@@ -21,7 +21,11 @@ Utils
 <br />
 <a href="#about">About</a>
 •
-<a href="#info">Info</a>
+<a href="#issue">Report Bug / Request Feature</a>
+•
+<a href="#contributing">Contributing</a>
+•
+<a href="#license">License</a>
 •
 <a href="#contact">Contact me</a>
 •
@@ -39,31 +43,44 @@ This a repository containing all of utils files for my other repositories. Feel 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- **********************🐲Info🐲********************** -->
+<!-- **********************🐲Report Bug / Request Feature🐲********************** -->
+<a name="issue"></a>
 
-<a name="info"></a>
+## 🐞 Report Bug / Request Feature 🐞
 
-## :information_source: Info :information_source:
+If you found a bug or want to request a feature, you can open an [issue](https://github.com/fescherer/utils/blob/main/ISSUE.md)
 
-Don't forget to leave a star if you like the project ✨
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<div align="center">
 
-[![MIT License][license-shield]][license-url]
-[![How to contribute][info-contribute-shield]][info-contribute-url]
-[![Create an issue][info-issues-shield]][info-issues-url]
+<!-- **********************🐲Be part of this project🐲********************** -->
+<a name="contributing"></a>
 
-</div>
+## 👋 Be part of this project 👋
+
+Contributions are extremely welcome. You can see how to make one by following the file [Contributing](https://github.com/fescherer/utils/blob/main/CONTRIBUTING.md)
+
+And don't forget to leave a star on the project if you liked it 🤩
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- **********************🐲License🐲********************** -->
+<a name="license"></a>
+
+## ⚖️ License ⚖️
+
+Distributed under the MIT License. See [License](LICENSE) for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- **********************🐲Contact Me🐲********************** -->
-
 <a name="contact"></a>
 
 ## 💬 Contact me 💬
 
 My name is Felipe Scherer. You can find my socials at [my Github profile](https://github.com/fescherer) 😸
-
-</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
